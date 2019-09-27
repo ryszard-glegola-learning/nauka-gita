@@ -1,7 +1,18 @@
+/* Variables */
+
+$font-header:'Signika', sans-serif;
+$font-text:'Inconsolata', monospace;
+
+/* Global */
+
 body {
     margin: 20px;
 }
 
 p {
-	font-style: italic;
+	font-family: $font-text;
+}
+
+h1, h3 {
+	font-family: $font-header;
 }
