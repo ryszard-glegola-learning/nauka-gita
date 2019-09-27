@@ -1,18 +1,11 @@
-/* Variables */
-
-$font-header:'Signika', sans-serif;
-$font-text:'Inconsolata', monospace;
-
-/* Global */
-
 body {
     margin: 20px;
 }
 
 p {
-	font-family: $font-text;
+	font-family: 'Signika', sans-serif;
 }
 
 h1, h3 {
-	font-family: $font-header;
+	font-family: 'Inconsolata', monospace;
 }
